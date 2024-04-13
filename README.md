@@ -16,12 +16,10 @@
 💼  Let's connect and collaborate on exciting data-driven projects! 🌐 🤳 Reach out to me through LinkedIn or other social media platforms mentioned below. I look forward to connecting with fellow professionals!</b>
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Google Data Analytics Certification Capestone Case Studies(SQL, Spreadsheets, R, Visualization ) </b>
-  - [Case Study: How Does a Bike-Share Navigate Speedy Success?](https://github.com/HarshVasoya07/Google-CaseStudy-How-Does-a-Bike-Share-Navigate-Speedy-Success-)
-  - [Case Study: How Can a Wellness Technology Company Play It Smart?](https://github.com/HarshVasoya07/GoogleCaseStudy2-How-Can-a-Wellness-Technology-Company-Play-It-Smart)
-- <b>SQL Projects(SQL) </b>
-  - [Project: When Was the Golden Age of Video Games?](https://github.com/HarshVasoya07/Golden-Age-of-Video-Game)
-  - [Project: Chinook Digital Music Store](https://github.com/HarshVasoya07/ChinookDigitalMusicStore)
+- <b>Website </b>
+  - [Couese Regestraton ](https://github.com/JayPatel-111/CoursrRegestration)
+- <b>R Projects(SQL) </b>
+  - [AirBNB Listing](https://github.com/JayPatel-111/AirBNB-listing)
 - <b>Python Project</b>
   - [Online ShoppingCart Tracker](https://github.com/JayPatel-111/OnlineShoppingCart_Tracker)
   - [Online Banking/ATM Project](https://github.com/JayPatel-111/OnlineBanking-ATM_Project)
