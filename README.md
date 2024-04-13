@@ -44,11 +44,10 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="HarshVasoya | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="HarshVasoya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="HarshVasoya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Jay Patel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JayPatel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/harshvasoya07/
-[linkedin]: https://www.linkedin.com/in/harsh-vasoya-34a31a233/
+[instagram]: https://www.instagram.com/jaypatel.111/
+[linkedin]: https://www.linkedin.com/in/jaypatel111jp
 
 
