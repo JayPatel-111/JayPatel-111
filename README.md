@@ -13,8 +13,6 @@
 
 📊 Skilled in Java, Python, R, and a suite of graphic design tools such as Adobe Photoshop, Illustrator, and After Effects, I bring a creative edge to data-driven marketing campaigns. My experience spans various aspects of graphic design, from creating impactful visuals to developing comprehensive layouts that communicate complex data in an accessible way.
 
-🐍 
-
 💼  Let's connect and collaborate on exciting data-driven projects! 🌐 🤳 Reach out to me through LinkedIn or other social media platforms mentioned below. I look forward to connecting with fellow professionals!</b>
 <h2>👨‍💻 Data Analytics Projects:</h2>
 
@@ -52,21 +50,7 @@
 [<img align="left" alt="HarshVasoya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="HarshVasoya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/HVasoya07
 [instagram]: https://www.instagram.com/harshvasoya07/
 [linkedin]: https://www.linkedin.com/in/harsh-vasoya-34a31a233/
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
