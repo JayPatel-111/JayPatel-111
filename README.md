@@ -30,8 +30,8 @@
   - [EDA Analysis: QandA](https://github.com/JayPatel-111/EDA-Analysis)
   - [Data Visualization](https://github.com/JayPatel-111/DataVisualization)
 - <b>Python & Machine Learning(Predictive Model and Data Analysis )</b>
-  - [Project: NYC Taxi Data Analysis and Prediction](https://github.com/HarshVasoya07/NYC_Taxi-Project)
-  - [Project: Malaria Detection](https://github.com/HarshVasoya07/MalariaDetectionProject)
+  - [Project: NYC Taxi Data Analysis and Prediction](https://github.com/JayPatel-111/NYC_Taxi-Project)
+  - [Project: Malaria Detection](https://github.com/JayPatel-1117/MalariaDetectionProject)
 
 <h2>🏅🎓 Data Analytics Certifications</h2>
 
