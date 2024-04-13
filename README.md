@@ -31,7 +31,6 @@
   - [Data Visualization](https://github.com/JayPatel-111/DataVisualization)
 - <b>Python & Machine Learning(Predictive Model and Data Analysis )</b>
   - [Project: NYC Taxi Data Analysis and Prediction](https://github.com/JayPatel-111/NYC-Taxi_EDA-Analysis)
-  - [Project: Malaria Detection](https://github.com/JayPatel-1117/MalariaDetectionProject)
 
 
 <h2> 🤳 Connect with me:</h2>
