@@ -14,7 +14,7 @@
 📊 Skilled in Java, Python, R, and a suite of graphic design tools such as Adobe Photoshop, Illustrator, and After Effects, I bring a creative edge to data-driven marketing campaigns. My experience spans various aspects of graphic design, from creating impactful visuals to developing comprehensive layouts that communicate complex data in an accessible way.
 
 💼  Let's connect and collaborate on exciting data-driven projects! 🌐 🤳 Reach out to me through LinkedIn or other social media platforms mentioned below. I look forward to connecting with fellow professionals!</b>
-<h2>👨‍💻 Data Analytics Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Google Data Analytics Certification Capestone Case Studies(SQL, Spreadsheets, R, Visualization ) </b>
   - [Case Study: How Does a Bike-Share Navigate Speedy Success?](https://github.com/HarshVasoya07/Google-CaseStudy-How-Does-a-Bike-Share-Navigate-Speedy-Success-)
@@ -23,14 +23,14 @@
   - [Project: When Was the Golden Age of Video Games?](https://github.com/HarshVasoya07/Golden-Age-of-Video-Game)
   - [Project: Chinook Digital Music Store](https://github.com/HarshVasoya07/ChinookDigitalMusicStore)
 - <b>Python Project</b>
-  - [Online ShoppingCart Tracker](https://github.com/HarshVasoya07/OnlineShoppingCart_Tracker)
-  - [Online Banking/ATM Project](https://github.com/HarshVasoya07/OnlineBanking-ATM_Project)
-  - [Updating Written Sentences](https://github.com/HarshVasoya07/UpdatingTheWrittenSentences)
+  - [Online ShoppingCart Tracker](https://github.com/JayPatel-111/OnlineShoppingCart_Tracker)
+  - [Online Banking/ATM Project](https://github.com/JayPatel-111/OnlineBanking-ATM_Project)
+  - [Updating Written Sentences](https://github.com/JayPatel-111/UpdatingTheWrittenSentences)
 - <b>Python and its Libraries(Pandas, Numpy, Seaborn, Matplotlib) </b>
-  - [Exploratory Data Analysis (EDA)](https://github.com/HarshVasoya07/NYC-Taxi_EDA-Analysis)
-  - [Project: World Happiness Report](https://github.com/HarshVasoya07/Project-WorldHappinessReport)
-  - [EDA Analysis: QandA](https://github.com/HarshVasoya07/EDA-Analysis)
-  - [Data Visualization](https://github.com/HarshVasoya07/DataVisualization)
+  - [Exploratory Data Analysis (EDA)](https://github.com/JayPatel-111/NYC-Taxi_EDA-Analysis)
+  - [Project: World Happiness Report](https://github.com/JayPatel-111/Project-WorldHappinessReport)
+  - [EDA Analysis: QandA](https://github.com/JayPatel-111/EDA-Analysis)
+  - [Data Visualization](https://github.com/JayPatel-111/DataVisualization)
 - <b>Python & Machine Learning(Predictive Model and Data Analysis )</b>
   - [Project: NYC Taxi Data Analysis and Prediction](https://github.com/HarshVasoya07/NYC_Taxi-Project)
   - [Project: Malaria Detection](https://github.com/HarshVasoya07/MalariaDetectionProject)
