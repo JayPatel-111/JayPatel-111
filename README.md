@@ -30,17 +30,9 @@
   - [EDA Analysis: QandA](https://github.com/JayPatel-111/EDA-Analysis)
   - [Data Visualization](https://github.com/JayPatel-111/DataVisualization)
 - <b>Python & Machine Learning(Predictive Model and Data Analysis )</b>
-  - [Project: NYC Taxi Data Analysis and Prediction](https://github.com/JayPatel-111/NYC_Taxi-Project)
+  - [Project: NYC Taxi Data Analysis and Prediction](https://github.com/JayPatel-111/NYC-Taxi_EDA-Analysis)
   - [Project: Malaria Detection](https://github.com/JayPatel-1117/MalariaDetectionProject)
 
-<h2>🏅🎓 Data Analytics Certifications</h2>
-
-- [Google Data Analytics Professional  Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/D6VCZMR3AMTJ)
-- [Data Analyst in SQL](https://www.datacamp.com/statement-of-accomplishment/track/aef9de40af0c796a8148f4633b15c9cae6069340?raw=1)
-- [Data Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/MWFGC9LKLGVG)
-- [Process Data from Dirty to Clean](https://www.coursera.org/account/accomplishments/certificate/PXWL3FMSYFFX)
-- [Applied Machine Learning - Beginner to Professional](https://courses.analyticsvidhya.com/certificates/hbrmxktypg)
-- [Structured Thinking and Communication for Data Science Professionals](https://courses.analyticsvidhya.com/certificates/uv4z1yarrb)
 
 <h2> 🤳 Connect with me:</h2>
 
