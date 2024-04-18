@@ -18,7 +18,7 @@
 
 - <b>Website </b>
   - [Couese Regestraton ](https://github.com/JayPatel-111/CoursrRegestration)
-- <b>R Projects(SQL) </b>
+- <b>R Projects </b>
   - [AirBNB Listing](https://github.com/JayPatel-111/AirBNB-listing)
 - <b>Python Project</b>
   - [Online ShoppingCart Tracker](https://github.com/JayPatel-111/OnlineShoppingCart_Tracker)
